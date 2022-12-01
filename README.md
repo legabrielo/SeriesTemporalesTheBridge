@@ -8,9 +8,7 @@ La idea es hacer Web Scrapping de la pagina de TripAdvisor. Donde se tendra en c
 1. El numero de reviews del restaurante.
 
 2. La puntuacion del restaurante. 
+ 
+3. El precio del restaurante. 
 
-3. La ubicacion del restaurante. 
-
-4. El precio del restaurante. 
-
-Con estas cracteristicas, se desarrollarra una prediccion de donde se abriria el proximo restaurante de 5 estrellas en TripAdvisor y cual seria el tipo de comida ofrecido en este local
+Con estas cracteristicas, se desarrollarra una prediccion para saber cual seria el tipo de comida ofrecido en este local 5 estrellas en TripAdvisor y cual seria el tipo de comida ofrecido en este local
